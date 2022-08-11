@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Pertemuan10_MyLibrary</string>
+    <string name="enter_name_to_store">Enter name to store in SQLite</string>
 </resources>
